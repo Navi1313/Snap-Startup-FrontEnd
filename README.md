@@ -63,14 +63,14 @@ Click on live server in bottom Right of your Vs code
 
 **Developer**
 
-
-###Navi Sabharwal
+Navi Sabharwal
 
 <a href="www.linkedin.com/in/navjot-singh-407025256"> LinkedIn </a>
 
 <a href="https://www.instagram.com/navi.sabharwal.1313/"> Instagaram </a>
 
-###Strak Coffee Official 
+
+Streak Coffee Official 
 <a href="https://www.instagram.com/streakcoffee/?utm_source=qr"> Streak Offical Instagram Handle </a>
 
 
