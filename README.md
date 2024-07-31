@@ -1,6 +1,9 @@
 <div align="center">
   <h1 align="center"> ⚡️ Streak Coffee startup <h1> 
-  ![android-chrome192x192](https://github.com/user-attachments/assets/855c8314-e538-4b1b-835c-7d1cd5539c03)
+    
+<img width="" alt="" src=""https://github.com/user-attachments/assets/855c8314-e538-4b1b-835c-7d1cd5539c03"">
+
+ 
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
