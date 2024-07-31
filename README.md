@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 align="center"> ⚡️ Streak Coffee startup <h1> 
+  <h1 align="center">  ![16x16](https://github.com/user-attachments/assets/91a56f91-c144-4628-9823-c5e520fdf7a9)   Streak Coffee startup <h1> 
     
+
 ![android-chrome192x192](https://github.com/user-attachments/assets/af2b34a4-90d3-4113-97e5-dfd9f8b46913)
 
  
@@ -16,88 +17,41 @@
 
 
 ## <a name="introduction">🤖 Introduction</a>
-This will predict the ['class of star', 'Color of star' ] by taking an input of ['Tempreature' , 'Luminosity' ,'Radius', 'Absolute Magnitude'] .
-This projet is based on Machine Learning gives Multiple output from trained model using Multioutput Classifiers in Logistic Regression. 
-
+This is a code for Startup Streak web-site. Which is a delecious packed coffee startup by the founder Pawan Kumar (IIT Roorkee) and developer Navjot Singh. here you can visit the insights and explore the products.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Python
-- Machine Learning (linear + Logestic Regrerssion)
-- Fast Api 
-- Uvicorn server
-- Scikit-learn
-- Jupyter (Anaconda)
-- virutal environment using conda python 
+- HTML
+- CSS
+- JAVASCRIPT
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
+
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
 
-###  1) For Model Building and Training ###
+###  1) For Building  ###
 
-- [Anaconda](https://www.anaconda.com/download)
-- [python](https://www.python.org/downloads/)
-- [jupyter Notebook] 
-- [test environment]
-  
-### 2) For Model Deployment 
+- [VS CODE ](https://code.visualstudio.com/download/)
+- [Live Server](Download after installing vs code )
 
-- [VSCode]
+-----------------------------------------------------------------------------
+
+### 2) For Web-site Deployment 
+
+- [Netlify](https://www.netlify.com/)
 - [Git](https://git-scm.com/)
   
 -----------------------------------------------------------------
 
-**Model  Building setup**
+### 3) Running the Project
 
-0. Must be created an test environment.
-   
-```bash
- conda create --name myenv python==lastestVersion
-```
-
-```bash
- conda activate myenv
-```
-
-...................
-
-1. import numpy and pandas for data manipulation and cleaning.
-2. import necessary scikit-learn libraries
-3. Create the Model
-4. train the model
-5. test,train and split using inbuild methods
-6. check the accuracy using j-score and h-loss.
-7. then dump the model; 
-8. Now Predict the class of star and color from this model .
-
-
-**Depoloyment Setup for Project**
-
-1. import fast api and uvicorn in VScode after creating new Project inside same directory .
-```bash
-!pip install fastapi 
-```
-```bash
-!pip install uvicorn 
-```
-2. Crate an application.py file write an code to deploy on web and add the model pikle file.
-3. follow Repo for more.
-
-
-**Running the Project**
-
-```bash
-uvicorn api:app --reload 
-```
-Output :-> 
-
-"Uvicorn running on http://127.0.0.1:8000"
+Click on live server in bottom Right of your Vs code 
 
 -----------------------------------------------------------------------------
 
@@ -105,18 +59,23 @@ Output :->
 
 ## <a name="links">🔗 Links</a>
 
-### Read the documentation for more details
-1. <a href="https://portal.thirdweb.com/"> fastapi.com </a>
-2. <a href="https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.MultiOutputClassifier.html"> scikit-learn Mutioutput Classifier </a>
-3. <a href="https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html">Pipeling</a>
-
+1. <a href="https://www.netlify.com/"> Netlify.com </a>
 
 **Developer**
 
 
-<a href="www.linkedin.com/in/navjot-singh-407025256"> Navi Sabharwal </a>
+### Navi Sabharwal
+<a href="www.linkedin.com/in/navjot-singh-407025256"> LinkedIn </a>
+<a href="https://www.instagram.com/navi.sabharwal.1313/"> Instagaram </a>
+
+### Strak Coffee Official 
+<a href="https://www.instagram.com/streakcoffee/?utm_source=qr"> Streak Offical Instagram Handle </a>
 
 
-## <a name="output">⚡️ Output</a>
+## <a name="output">⚡️ Home Page </a>
 
-<img width="1440" alt="Screenshot 2024-07-06 at 6 24 21 PM" src="https://github.com/Navi1313/SpaceProject/assets/121182901/e7e5a26f-2f80-4ad6-9229-fa7c2e296a7c">
+------------------------------------------------------------------------------
+
+<img width="1440" alt="Screenshot 2024-07-31 at 6 13 08 PM" src="https://github.com/user-attachments/assets/3c173d08-b046-44b6-b5bd-865fc3ddf3e9">
+
+------------------------------------------------------------------------------
