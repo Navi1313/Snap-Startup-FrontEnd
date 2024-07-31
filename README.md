@@ -8,7 +8,7 @@
 </div>
   <h3 > Go to enjoy the Website <h3> 
     
-  <a href="https://66aa3a717cce8a3819b97baf--streak-coffee.netlify.app/"> <h2><i> Streak offical website </i></h2> </a>
+  <a href="https://66aa3a717cce8a3819b97baf--streak-coffee.netlify.app/"> Streak offical website </a>
 
 <div>
   
