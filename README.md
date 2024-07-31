@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"> ⚡️ Streak Coffee startup <h1> 
     
-<img width="" alt="" src=""https://github.com/user-attachments/assets/855c8314-e538-4b1b-835c-7d1cd5539c03"">
+![android-chrome192x192](https://github.com/user-attachments/assets/af2b34a4-90d3-4113-97e5-dfd9f8b46913)
 
  
 </div>
