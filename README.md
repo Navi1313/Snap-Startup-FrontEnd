@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">  ![16x16](https://github.com/user-attachments/assets/91a56f91-c144-4628-9823-c5e520fdf7a9)   Streak Coffee startup <h1> 
+  <h1 align="center"> Streak Coffee startup <h1> 
     
 
 ![android-chrome192x192](https://github.com/user-attachments/assets/af2b34a4-90d3-4113-97e5-dfd9f8b46913)
